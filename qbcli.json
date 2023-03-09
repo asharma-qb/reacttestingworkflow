@@ -1,0 +1,30 @@
+{
+  "urlQueryString": "",
+  "repositoryId": "665",
+  "deployPath": "deploy",
+  "prodPrefix": "P_TEST",
+  "devPrefix": "D",
+  "dbid": "bsrb9fvi6",
+  "devDbid": "",
+  "devAndProdQuickBaseApplications": "",
+  "realm": "att",
+  "isProd": false,
+  "isFeat": false,
+  "isDev": true,
+  "filesConf": [
+    {
+      "filename": "main.css",
+      "path": "./deploy/"
+    },
+    {
+      "filename": "main.js",
+      "path": "./deploy/"
+    },
+    {
+      "filename": "index.html",
+      "path": "./deploy/",
+      "dependencies": [0, 1],
+      "isIndexFile": true
+    }
+  ]
+}
